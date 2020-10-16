@@ -1,5 +1,17 @@
 ### Hi there 👋, I'm Saeful Hidayat
 
+
+# About Me
+
+- 🔴  A geek with 3 years ++ on C++ Developer and Security Researcher
+- 🏣  information Technology Student at Amikom University
+- 🌱 I’m currently learning Deep Learning and Machine Learning
+
+
+
+
+
+
 <!--
 **SaefulHidayat/SaefulHidayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
