@@ -3,9 +3,9 @@
 
 # About Me
 
-- 🔴  A geek with 3 years ++ experience on C++ Developer and Security Researcher
 - 🏣  information Technology Student at Amikom University
 - 🌱 I’m currently learning Deep Learning and Machine Learning
+
 
 
 
